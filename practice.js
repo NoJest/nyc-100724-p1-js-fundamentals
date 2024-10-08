@@ -9,6 +9,9 @@ const elementsArr = ["hydrogen", "helium", "lithium", "beryllium", "boron", "car
 
 // 1. Can you write a function that `console.log`s each element like so: "hydrogen is an element", "helium is an element"... etc
 
+function elemental () { 
+    console.log ''
+}
 
 // 2. Can you write a function that returns a NEW ARRAY for each element like so: "hydrogen is an element", "helium is an element" 
 // BONUS: can you write the function so it returns a NEW ARRAY with each element like so: "hydrogen is element number 1", "helium is element number 2" 
